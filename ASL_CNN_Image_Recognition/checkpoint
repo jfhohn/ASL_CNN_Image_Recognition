@@ -1,2 +1,2 @@
-model_checkpoint_path: "optimized_Model_Saved"
-all_model_checkpoint_paths: "optimized_Model_Saved"
+model_checkpoint_path: "optimized_Model_Saved_ConstSeedWithAug"
+all_model_checkpoint_paths: "optimized_Model_Saved_ConstSeedWithAug"
